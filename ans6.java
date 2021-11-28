@@ -1,4 +1,4 @@
-//4. Digits in a large number
+//6. Multiple permutations
 
 public class factorial {
     public static void main(String[] args) {
