@@ -1,3 +1,5 @@
+// 5. Powered Sequence
+
 #include <iostream>
 
 int main() {
